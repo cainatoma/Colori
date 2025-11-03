@@ -1,0 +1,19 @@
+{
+    "name": "Colori - smart color picker",
+    "short_name": "Colori",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "Colori is a color palette generator app that allows users to create and customize color palettes for their design projects. It uses Natural Language Processing (NLP) to generate color palettes based on user input and preferences.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "web/pwaicon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
